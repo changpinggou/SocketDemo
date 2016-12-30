@@ -1,0 +1,9 @@
+*.sdf
+*.opensdf
+*.pyc
+*.suo
+*.sdf
+*.ncb
+/Debug
+/Release
+/ipch
